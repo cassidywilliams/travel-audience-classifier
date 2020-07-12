@@ -4,7 +4,8 @@
 Using provide data, build a binary classifier to accurately predict the probability of a user to book based on previous search events.
 
 ## Install dependencies
-``` pip3 install -r requirements.txt 
+``` 
+pip3 install -r requirements.txt 
 ```
 
 ## Running code
